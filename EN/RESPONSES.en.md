@@ -1,95 +1,38 @@
 # RESPONSES.en.md
 
+[Inference]
 
-# cp-core-01 — Responses to Steelman Objections (v0.3.0 prep)
+# cp-core-01 — Responses to Steelman Objections (v0.3.0)
 
-This document provides paired responses to `OBJECTIONS.en.md` (O1–O5). The aim is not rhetorical victory but boundary-clarification: what Core-01 claims, what it does not claim, and what must be enforced by the apparatus (Core-03) to avoid category mistakes.
-
----
+Paired responses to `OBJECTIONS.en.md` (O1–O10). The objective is boundary precision: what Core-01 establishes, what it delegates to apparatus constraints, and what remains domain-specific.
 
 ## R1 — Response to O1 (proceduralization / normativity smuggled in)
-
-**Concession.** If “transcendental freedom” were merely a checklist of procedures, then it would not ground normativity; it would only decorate it.
-
-**Clarification.** Core-01 does **not** claim to derive normativity from thin air. It claims something narrower and structural:
-
-- Norms may indeed be socially and institutionally sourced.
-- However, *responsibility attribution* requires a subject-position capable of **genuine withholding** and **attributable commitment** under those norms.
-- That capacity is not “the source of norms”; it is a **condition of possibility** for *owning* a norm-governed stance.
-
-**Where institutions enter.** Institutions can provide:
-- rule-sets, sanctions, procedures, due process;
-but they cannot replace the logical role of:
-- an attributable commitment that can be challenged and revised.
-
-**Operational consequence.** If an environment claims “responsibility exists” while commitments are only pipeline outputs, Core-01 treats that as a category error: *institutional scaffolding without a responsible subject-position is not responsibility, but a simulation of it.*
-
----
+Core-01 does not claim to generate normativity. It claims a narrower point: responsibility attribution presupposes a subject-position capable of genuine withholding and attributable commitment under norms (whatever their source). Institutions can supply rules and sanctions; they cannot replace owned commitment without simulating responsibility.
 
 ## R2 — Response to O2 (epiphenomenal suspension)
+Suspension is not a feeling; it is a control act at the decision boundary that can alter outcomes without extraordinary effort. In mediated environments, genuine suspension depends on apparatus properties: explicit stop/withhold channels, anti-default adoption, and re-opening evaluation. If absent, the system fails as a responsibility system.
 
-**Concession.** A subjective feeling of hesitation can be epiphenomenal. If “suspension” is purely phenomenological, it is normatively idle.
+## R3 — Response to O3 (collective agency)
+“First Cause” is a responsibility-bearing locus, not necessarily an individual. Collective agency is supported via signature topology: roles/committees sign defined boundaries, and answerability routes challenges to the accountable locus. The target is anti-diffusion: avoiding “everyone contributed, therefore no one answers.”
 
-**Definition upgrade (anti-epiphenomenal).** In Core-01, **Suspension** is not a feeling; it is an **action at the decision boundary**:
-- it interrupts default continuation,
-- re-opens the space of alternatives,
-- and triggers or reconfigures evaluation criteria.
-
-**Apparatus dependence.** In mediated environments, Suspension is real only if the apparatus ensures:
-- no forced default adoption,
-- an explicit “stop/withhold” channel,
-- and a path to request additional grounds or to refuse the action.
-
-Without those constraints, “suspension” collapses into decorative friction.
-
-**Testable criterion.** Suspension is genuine iff it can change the commitment outcome *without requiring extraordinary heroics* (e.g., quitting the system, legal escalation, or hacking the workflow).
-
----
-
-## R3 — Response to O3 (collective agency; no single First Cause)
-
-**Concession.** Many decisions are irreducibly distributed. Treating every decision as the act of a lone individual is empirically and normatively naive.
-
-**Reframing.** “First Cause” in the program is not necessarily a solitary individual. It is a **responsibility-bearing locus**—which may be:
-- a role occupant (e.g., a signing officer),
-- a committee with defined signatures,
-- or an institution that assigns accountable signatories.
-
-**Minimal requirement.** Even in collective contexts, responsibility requires:
-- a defined signature topology (who signs what),
-- explicit decision boundaries (which layer decides which subpart),
-- and answerability channels (how objections travel to the right locus).
-
-**Therefore.** Core-01 is compatible with collective agency, provided the apparatus prevents a common failure mode: *diffusion without ownership* (“everyone contributed, therefore no one answers”).
-
----
-
-## R4 — Response to O4 (functional equivalence; anti-essentialism)
-
-**Concession.** If a system were genuinely equivalent across all normatively relevant dimensions—including challenge-responsiveness, revision under reasons, and sanctionability—then a purely stipulative denial of agency would be suspicious.
-
-**Boundary claim (what Core-01 asserts).** Core-01 does not rest on a metaphysical “essence” claim about biology vs machine. It asserts a normative constraint:
-
-- Agency relevant to responsibility includes **non-delegable commitment** under a regime of answerability.
-- This is not just output behavior; it includes standing within a practice of attribution, contestation, and sanction.
-
-**Why “functional profile” is not enough by default.**
-- A pipeline can mimic reason-responsiveness behaviorally while remaining non-attributable (no one can legitimately hold it responsible, demand justification, impose sanctions, or accept retractions).
-- If normativity must be imported via external governance to treat it *as if* it were responsible, then we are back to the “internal defeat” concern: the system’s agency is not grounded by functional role alone.
-
-**Open door (controlled).** Core-01 remains *in principle* open to non-human responsible subjects if (and only if) they can occupy the full responsibility position: attributable commitment + answerability + sanctionability + revision. Until then, treating functional equivalence as sufficient is premature.
-
----
+## R4 — Response to O4 (functional equivalence)
+Core-01 avoids biological essentialism but rejects “output equivalence ⇒ responsibility.” Responsibility requires attributable commitment within practices of contestation, sanctionability, and revision. A pipeline can mimic responsiveness while remaining non-attributable (no legitimate standing for blame, sanction, or retraction). If governance must be imported to treat it “as if” responsible, functional role alone is insufficient.
 
 ## R5 — Response to O5 (regress of endorsement)
+The regress is blocked by treating commitment as a basic normative act assessed via answerability rather than infinite meta-endorsement. The agent must provide minimum operative reasons and accept structured challenge; ultimate foundations are not required. Revision/retraction under defeat replaces regress with finite, auditable responsibility practice.
 
-**Concession.** If every endorsement requires a further endorsement, an infinite regress threatens.
+## R6 — Response to O6 (criteria underdetermination)
+Core-01 requires minimum viable reasons, not complete ex ante formalization. Criteria can be partial and defeasible if they were operative at commitment time and are contestable afterward. The standard is non-arbitrary ownership: the agent can state what counted as reasons/constraints and can revise when those grounds are defeated.
 
-**Stopping rule.** Core-01 treats commitment (K) as a **basic normative act**—not unjustified, but *not requiring an infinite hierarchy of endorsements*. The regress is avoided by distinguishing:
-- **first-order commitment** (I endorse X under reasons R),
-from
-- **meta-endorsement** (I endorse that I endorse…).
+## R7 — Response to O7 (over-demandingness)
+This is a scaling constraint, not an elitist universal demand. Responsibility requirements scale with stakes and institutional context. Low-stakes action can satisfy responsibility with minimal PoS; high-stakes domains require stronger apparatus support. The apparatus must reduce burden (accessibility, defaults, UX) so that suspension and reasons capture are feasible for ordinary agents.
 
-Practical responsibility needs the former; the latter is optional and context-triggered.
+## R8 — Response to O8 (normative pluralism)
+Core-01 is meta-normative: it specifies conditions for owning a stance under norms, not which norms are correct. Selection among regimes is domain-level (law/politics/ethics). Core-01 adds a constraint: whichever regime is invoked, commitment must be attributable and answerable within contestation, and outputs must not become binding by default.
 
-**Answerability replaces infinite justification**
+## R9 — Response to O9 (reliability trade-off)
+Instrumental superiority does not substitute for responsibility. The framework allows high-performing instruments while preserving identifiable responsible loci and preventing silent adoption. Time-critical contexts can use emergency delegation modes with explicit logging and post-hoc answerability (review, revision, sanctionability).
+
+## R10 — Response to O10 (power and structural injustice)
+Decisive as a design constraint: signature must not launder coercion. PoS must include (where relevant) voluntariness/optionality checks: meaningful alternatives, feasibility of refusal, and constraints/coercion markers. Domain repos (law/politics) will formalize these safeguards; Core-01 insists that “ownership” requires a genuine boundary, not forced compliance dressed as commitment.
+
