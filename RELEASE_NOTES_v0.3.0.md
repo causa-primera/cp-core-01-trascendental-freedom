@@ -1,6 +1,5 @@
 # RELEASE_NOTES_v0.3.0.md
 
-[Inference]
 
 # Release v0.3.0 — Core solidity (cp-core-01-trascendental-freedom)
 
