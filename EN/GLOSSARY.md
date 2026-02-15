@@ -1,73 +1,53 @@
-# Glossary (v0.1) — Transcendental Freedom
+# GLOSSARY.en.md
 
-This glossary is operational: each entry includes (i) usage conditions and (ii) boundary/counterexample notes.
+[Inference]
 
----
+# cp-core-01 — Glossary (v0.3.0)
 
-## 1) Reason (strict)
-**Definition:** Capacity to treat considerations as reasons (normative force), evaluate under a criterion of correctness, and issue commitments imputable to a subject (normative signature).  
-**Use when:** you mean *normative status*, not mere reliability or problem-solving.  
-**Not:** “reason” as any successful inference engine or predictor.
+Controlled usage: terms here are load-bearing across Core-01. Use IDs (G1…G24) in `ARGUMENT_MAP.en.md`, `TESTS.en.md`, and responses.
 
----
+## G1 — Transcendental freedom
+A structural capacity required for responsibility attribution: the ability to interrupt automatic continuation and to commit under norms in an attributable way.
 
-## 2) Normativity
-**Definition:** Space in which correct/incorrect, justified/unjustified apply as standards that can be demanded, contested, revised.  
-**Use when:** correctness is not reducible to “it worked” but invokes standards.  
-**Boundary:** mere causal regularity or optimization without answerability is not yet normativity (in the strict sense used here).
+**Boundary note:** not a metaphysical thesis about indeterminism. It is normative-structural and can be compatible with deterministic causal stories.
 
----
+## G2 — Strong agency
+Agency sufficient for responsibility attribution, minimally requiring S→E→K as owned acts.
 
-## 3) Imputability (answerability)
-**Definition:** Property by which a commitment can be attributed to a subject who can be asked to justify, retract, repair, or apologize as author of it.  
-**Use when:** responsibility and justification are in play.  
-**Counterexample:** “the system said so” where no one can be asked to justify beyond pointing to the system.
+## G3 — Suspension (S)
+Genuine withholding at the decision boundary that can alter the course of action without extraordinary effort.
 
----
+**Not:** mere delay, friction, or phenomenological hesitation.
 
-## 4) Commitment (normative signature)
-**Definition:** An owned endorsement that binds the subject (even if revisable), generating obligations of justification and repair if wrong.  
-**Use when:** the subject *stands behind* a judgement.  
-**Not:** mere output emission or post-hoc ratification without real possibility of withholding.
+## G4 — Evaluation (E)
+Criterion-guided selection among reasons/grounds under constraints, uncertainty, and trade-offs.
 
----
+## G5 — Commitment / Normative signature (K)
+An attributable stance that can be owned, challenged, revised, and sanctioned.
 
-## 5) Suspension (genuine withholding)
-**Definition:** Interrupting automatic continuation to open a normative question (“should I accept/endorse this?”) in a context where one could proceed automatically.  
-**Use when:** the withholding is for normative reasons (not due to incapacity).  
-**Counterexample:** hesitation from confusion or lack of data that vanishes once data arrives (pure information deficit).
+**Boundary note:** “signature” is not a biometric mark; it is a responsibility-bearing appropriation step.
 
----
+## G6 — Answerability
+The standing to be required to respond to objections and consequences for a commitment.
 
-## 6) Evaluation
-**Definition:** Selection under a criterion that purports to be correct (even if contestable), i.e., “this is better/worse for a reason.”  
-**Use when:** you can point to a standard (explicit or reconstructible) that can be challenged.  
-**Counterexample:** choosing purely by habit or impulse without any appeal to correctness (unless later endorsed as commitment).
+## G7 — Imputability
+Normative assignability of a decision/action to a responsible locus (person/role/committee).
 
----
+## G8 — Reason (strict sense)
+Normatively weight-bearing grounds (not merely causal explanations). Reasons can be offered in justification and contested.
 
-## 7) Criterion (standard of correctness)
-**Definition:** A standard invoked in justification that distinguishes correct/incorrect and can be contested and revised.  
-**Use when:** you want to separate reasons from causes.  
-**Boundary:** “criterion” is not just a scalar reward unless it is treated as correctness-apt within a normative practice.
+## G9 — Normativity
+The “ought-space”: obligations, permissions, prohibitions, and authoritative reasons.
 
----
+## G10 — Automatic continuation
+A default/inertial mode where actions proceed such that commitment is implied without explicit ownership.
 
-## 8) Automatic continuation
-**Definition:** Any transition/output that occurs without a genuine possibility of withholding in the relevant context; the path of inertia.  
-**Use when:** diagnosing “mere production” vs “judgement.”  
-**Counterexample:** a pause that is itself an automatic subroutine (a delay) with no normative question opened.
+## G11 — Externalization (delegation boundary)
+Delegating evaluation/selection to instruments in a way that risks replacing the subject’s own responsibility functions.
 
----
+## G12 — First Cause (normative)
+A responsibility-bearing locus capable of S→E→K as owned acts (may be individual or collective via signature topology).
 
-## 9) Externalization
-**Definition:** Delegation of operations (search, drafting, simulation, enumeration) to external systems, while preserving the human locus of normative signature.  
-**Use when:** distinguishing tool-use from agency transfer.  
-**Not:** treating external outputs as commitments without signature (that is agency-loss, not neutral externalization).
+## G13 — Second Cause (instrumental)
+A transmissive/operationa
 
----
-
-## 10) Agency (strong sense)
-**Definition:** Capacity for self-binding normative action: genuine suspension, evaluation under correctness, and imputable commitment (signature).  
-**Use when:** you mean “subject of commitments,” not just “goal-directed behavior.”  
-**Counterexample:** a system with sophisticated behavior whose norms and liabilities remain entirely assigned/borne by external agents.
