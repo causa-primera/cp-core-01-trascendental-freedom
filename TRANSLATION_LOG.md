@@ -20,3 +20,20 @@
 - Terminology decisions: unchanged.
 - Substantive divergences: None (packaging correction only).
 - Human reviewer (accountability): Jose Fernandez Tamames
+
+## v0.3.0
+- Date: 2026-02-15
+- Spanish snapshot: es-snapshots/v0.3.0/
+- English release: v0.3.0
+- Translated artifacts (canonical paths):
+  - THESIS.en.md
+  - ARGUMENT_MAP.en.md
+  - GLOSSARY.en.md
+  - INVARIANTS.en.md
+  - OBJECTIONS.en.md
+  - RESPONSES.en.md
+  - TESTS.en.md
+- Terminology decisions: see TERMINOLOGY.md
+- Substantive divergences (if any): None.
+- Human reviewer (accountability): Jose Fernandez Tamames
+
