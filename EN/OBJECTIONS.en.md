@@ -34,3 +34,17 @@ In high-stakes settings, automated systems may outperform humans. Requiring stro
 ## O10 — Power and structural injustice: signatures can launder domination
 If norms are shaped by power, then “signature” and “appropriation” may legitimate unjust structures (“you signed, so you own it”) while hiding coercion, dependency, or lack of alternatives. The framework risks moralizing compliance.
 
+# cp-core-03 — Steelman Objections (v0.3.0)
+
+O1 Bureaucratization: paperwork substitutes ownership.  
+O2 PoS gaming: rubber-stamping reasons simulates contestability.  
+O3 Boundary impossibility: boundaries are fluid/ambiguous in real pipelines.  
+O4 Traceability vs privacy: logging conflicts with PII/rights.  
+O5 Contestability attack surface: obstruction/harassment/adversarial use.  
+O6 Diffusion via committees: topology exists but no one truly answers.  
+O7 Emergency abuse: exception becomes default loophole.  
+O8 Governance displacement: responsibility becomes compliance ownership.  
+O9 Cross-domain mismatch: one apparatus cannot fit all domains.  
+O10 Instrumental superiority: PoS/suspension may increase harm by slowing action.
+
+
