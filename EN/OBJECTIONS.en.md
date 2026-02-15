@@ -1,18 +1,36 @@
-# cp-core-01 — Steelman Objections (v0.3.0 prep)
+# OBJECTIONS.en.md
 
-These objections target the core claims about transcendental freedom as a necessary condition for normative responsibility under automation.
+# cp-core-01 — Steelman Objections (v0.3.0)
 
-## O1 — The “proceduralization” objection (normativity smuggled in)
-Even if you define freedom as Suspension→Evaluation→Commitment (S→E→K), the account may merely rename a set of procedures. Normative authority still seems to come from outside (social practices, law, institutions). If so, “transcendental freedom” is not doing grounding work—it's a procedural wrapper around externally sourced normativity.
+These objections target Core-01’s claims about transcendental freedom as a condition for normative responsibility under automation.
 
-## O2 — The “epiphenomenal suspension” objection
-Suspension may be psychologically real but normatively idle: a subject can experience withholding while the decisive causal work is done by automatic processes (habits, priors, environment, system defaults). If suspension does not change the decision boundary in a principled way, it cannot serve as the required condition for responsibility.
+## O1 — Proceduralization: normativity is smuggled in
+Defining freedom as S→E→K risks merely redescribing procedures while the actual source of normativity remains external (law, institutions, social practices). If so, “transcendental freedom” does not ground responsibility; it only packages it.
 
-## O3 — The “collective agency” objection (no single First Cause)
-Many modern decisions are irreducibly distributed across teams, institutions, and technical infrastructures. If responsibility is structurally collective, the insistence on a singular First Cause misdescribes the phenomenon. The theory risks forcing an individual signature onto decisions that are actually produced by organizational and infrastructural agency.
+## O2 — Epiphenomenal suspension
+Suspension may be psychologically salient yet normatively inert: decisions may still be determined by defaults, priors, environment, or pipeline inertia. If suspension cannot alter the decision boundary in a principled manner, it cannot underwrite responsibility.
 
-## O4 — The “functional equivalence” objection (anti-essentialism about agency)
-If two systems are behaviorally and functionally equivalent in all normatively relevant respects (including responsiveness to reasons, counterfactual sensitivity, revisions under challenge), then denying agency to one system appears to be an essentialist stipulation. Why is “subjecthood” not just a functional profile plus governance?
+## O3 — Collective agency: no single First Cause
+Many decisions are structurally distributed across teams and infrastructures. If responsibility is inherently collective, insisting on a singular “First Cause” distorts the phenomenon and forces an individualistic signature onto organizational agency.
 
-## O5 — The “regress of endorsement” objection
-If commitment requires an attributable “signature,” what authorizes the signature itself? If endorsement must be endorsed, the account risks an infinite regress. If endorsement is taken as primitive, then the theory may be asserting a brute fact (“the subject just owns it”) rather than offering a workable grounding condition.
+## O4 — Functional equivalence: anti-essentialism about agency
+If two systems are functionally and behaviorally equivalent in all normatively relevant respects (including revision under challenge), denying agency to one looks like stipulation. Why isn’t “being a responsible subject” just a functional profile plus governance?
+
+## O5 — Regress of endorsement
+If commitment requires endorsement, what authorizes endorsement itself? Either there is an infinite regress (endorsement of endorsement…) or a brute stop (“the subject just owns it”), which risks becoming dogmatic.
+
+## O6 — Criteria underdetermination: evaluation cannot be owned
+Real-world criteria are often vague, conflicting, or post-hoc rationalized. If evaluation criteria cannot be specified ex ante, “owned evaluation” collapses into narrative reconstruction; responsibility becomes an after-the-fact story rather than a real normative act.
+
+## O7 — Over-demandingness: the theory excludes ordinary agents
+If responsible agency requires articulate criteria, structured suspension, and explicit commitment, then many ordinary actions (and many ordinary people under stress, low literacy, disability, or time pressure) fail the test. That yields an implausibly elitist account of responsibility.
+
+## O8 — Normative pluralism: which norms does freedom commit to?
+In plural societies, agents face incompatible normative regimes. If transcendental freedom is a condition of responsibility, how does it select which normativity binds? Without a selection principle, the framework may be indeterminate or politically biased.
+
+## O9 — Reliability trade-off: responsibility constraints reduce welfare
+In high-stakes settings, automated systems may outperform humans. Requiring strong suspension/PoS might slow action and increase errors. If the apparatus reduces welfare, why treat it as a universal constraint rather than a context-dependent luxury?
+
+## O10 — Power and structural injustice: signatures can launder domination
+If norms are shaped by power, then “signature” and “appropriation” may legitimate unjust structures (“you signed, so you own it”) while hiding coercion, dependency, or lack of alternatives. The framework risks moralizing compliance.
+
