@@ -1,61 +1,28 @@
-# Argument Map (v0.1) — Transcendental Freedom
+# ARGUMENT_MAP.en.md
 
-## A. Target conclusion
-**C:** Freedom (as a three-moment normative structure: Suspension → Evaluation → Commitment) is a condition of possibility for reason, where reason is understood as imputable normativity (answerability under reasons).
+[Inference]
 
----
+# cp-core-01 — Argument Map (v0.3.0)
 
-## B. Definitions (dependencies)
-- **D1 Reason (strict):** the capacity to take considerations as *reasons* (normative force), evaluate under a criterion of correctness, and issue commitments imputable to a subject (normative signature).
-- **D2 Freedom (relevant):** the capacity to enact the three moments:
-  - **S** Suspension (genuine withholding; opening a normative question),
-  - **E** Evaluation (selection under a criterion that purports to be correct),
-  - **K** Commitment (normative signature: ownership/answerability for the selection).
-- **D3 Imputability:** the property by which a commitment can be attributed to a subject who can be asked to justify, retract, repair, or apologize as author of the commitment.
-- **D4 Normativity:** the space of reasons where predicates like correct/incorrect, justified/unjustified apply (not reducible to causal description alone).
+## Main conclusion (C)
+**C:** Responsibility attribution under automation requires **transcendental freedom** as a normative-structural condition: the preservation of **genuine suspension (S)**, **owned evaluation (E)**, and **attributable commitment (K)**, protected against **Second-Cause substitution** by **decision-boundary legibility** and **Proof of Signature (PoS)**. (G1–G6, G10, G14–G18)
 
-(Each definition is expanded operationally in `GLOSSARY.md`.)
+## Premises (numbered; glossary-linked)
+**P1.** Responsibility attribution presupposes a distinction between instrumental outputs and owned commitments. (G5, G7, G13, G14)  
+**P2.** Owned commitments require a responsible locus capable of S→E→K as owned acts. (G2, G3, G4, G5, G12)  
+**P3.** Automation tends to induce automatic continuation and to compress genuine suspension unless explicitly constrained. (G3, G10)  
+**P4.** Where suspension is compressed, commitment becomes implied by default adoption rather than owned appropriation. (G5, G10, G14)  
+**P5.** Externalization of evaluation to instruments makes substitution likely: outputs are treated as if they carried normative authority. (G11, G13, G14)  
+**P6.** A commitment is imputable only if the decision boundary is legible: what was decided, alternatives, and constraints are explicitly delineated. (G7, G16)  
+**P7.** Responsibility in distributed settings requires a signature topology: each decision boundary maps to accountable signatories (roles/committees), preventing diffusion. (G12, G21)  
+**P8.** Contestability is a necessary condition of responsible ownership: commitments must be challengable in structured form. (G6, G18)  
+**P9.** Contestability requires criteria traceability: minimum viable reasons must be retrievable for challenge and review. (G8, G17, G18)  
+**P10.** PoS is the minimal apparatus step that prevents substitution: boundary + operative criteria + acceptance of answerability + revision channel. (G15, G16, G17, G6, G20)  
+**P11.** PoS does not require full transparency of instruments; it requires that the responsible locus can appropriate and defend (or revise) the commitment under challenge. (G15, G6, G17, G20)  
+**P12.** Therefore, transcendental freedom is not a metaphysical claim but a normative-structural constraint ensuring S→E→K remains non-delegable at the point of commitment. (G1, G2, G3, G5, G11)
 
----
-
-## C. Premises (transcendental structure)
-
-### C1. Reasoning practices presuppose normativity
-**P1:** Our practices of reasoning (personal, scientific, legal, institutional) treat some outputs as correct/incorrect and justified/unjustified.  
-**P2:** These normative predicates are not merely descriptive labels for behavior; they function as standards that can be demanded, contested, and revised.  
-**P3:** Therefore, reason-as-reason (strict) presupposes normativity (D4) rather than mere output production.
-
-### C2. Normativity presupposes answerability (imputability)
-**P4:** Standards of correctness are binding only insofar as someone (a subject) can be held to them (answerability).  
-**P5:** Answerability requires imputability (D3): there must be an author of commitments who can be asked to justify/retract/repair.  
-**P6:** Therefore, normativity in the strict sense presupposes imputable commitment (normative signature).
-
-### C3. Imputable commitment presupposes the three moments (freedom)
-**P7:** A commitment is imputable only if it is not merely the endpoint of automatic continuation, but an act that could have been withheld in the relevant context.  
-**P8:** The possibility of withholding is Suspension (S): opening the normative question (“should I accept/endorse this?”).  
-**P9:** A commitment is not intelligible as commitment without Evaluation (E): selection under some criterion purporting to be correct.  
-**P10:** A commitment is not intelligible as imputable without Commitment (K): the normative signature that makes the subject answerable for the selection.  
-**P11:** Therefore, imputable commitment presupposes the three-moment structure S→E→K, i.e., freedom in the relevant sense (D2).
-
-### C4. Therefore: freedom is a condition of possibility for reason
-**P12:** Reason (strict) presupposes normativity (P1–P3).  
-**P13:** Normativity (strict) presupposes imputable commitment (P4–P6).  
-**P14:** Imputable commitment presupposes freedom (S→E→K) (P7–P11).  
-**C:** Therefore, freedom (S→E→K) is a condition of possibility for reason (strict).
-
----
-
-## D. Clarifications (scope)
-**SC1:** This argument is not an empirical claim about intelligence/performance.  
-**SC2:** It targets the normative status of reason: what must be in place for “reason” to be intelligible as reason, not merely as reliable output.
-
----
-
-## E. Refutation conditions (defeat criteria)
-The conclusion would require revision if one could establish any of the following without remainder:
-
-**R1:** Imputable commitment (normative signature) can exist without Suspension (no genuine withholding).  
-**R2:** Evaluation under correctness can exist without any subject capable of answerability.  
-**R3:** Normativity-as-imputability reduces completely to descriptive/causal facts.
-
-(These become concrete in `TESTS.md` and `INVARIANTS.md`.)
+## Inference steps
+**S1.** From P1–P2: responsibility requires owned commitments grounded in S→E→K. (G2–G5, G7)  
+**S2.** From P3–P5: automation creates systematic pressure toward default adoption and substitution. (G10, G11, G14)  
+**S3.** From P6–P11: decision-boundary legibility + PoS + contestability + traceability are necessary constraints to preserve ownership. (G15–G18, G20–G22)  
+**S4.** Therefore C.
